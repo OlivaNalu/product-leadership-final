@@ -1,78 +1,19 @@
 # Write a Strategy That Can Survive a Test, Module 1 Lab
 
 ## Write your one-page strategy
-- **Winning aspiration: define winning in the customer's terms, not internal metrics. What does success look like for the specific person you serve?:** Make Meridian the tool construction field workers choose to use because it is the fastest, easiest way to capture, communicate, and resolve on-site issues while also automatically creating the reliable, current project record that project managers, compliance teams, and executives need to run their projects.
+- **Winning aspiration: define winning in the customer's terms, not internal metrics. What does success look like for the specific person you serve?:** Make Meridian the tool construction field workers choose to use because it is the fastest, easiest way to capture, communicate, and resolve on-site issues while also automatically creating the reliable, current project record that project managers, compliance teams, and executives need to run their projects. Winning means field teams no longer need to maintain a parallel system of camera rolls and fragmented group chats to get work done. Information is captured once, immediately useful to the people who need it, and available for downstream decisions and reporting without duplicate administration.
+  
+- **Where to play: segment, geography, and use case, explicitly. Which customers, markets, and surfaces will you focus on?:** Existing enterprise construction customers where Meridian is already established as the project system of record but field adoption is weak. Site superintendents and foremen who capture and communicate day-to-day site issues, supported by project managers who need timely visibility and follow-through. Capture, communicate, assign, and track an on-site issues, starting with photo-based issue reporting and resolution. A representative subset of existing customer sites, selected to test different field conditions, connectivity constraints, and team workflows before broader rollout. A mobile-first field experience integrated with camera capture, sharing, notifications, and the existing Meridian project record. Preserve the enterprise platform as the source of truth. First, prove sustained adoption and measurable workflow improvement in the core. Then expand to adjacent field workflows and deepen analytics where field-generated data creates demonstrable customer value.
 
-Winning means field teams no longer need to maintain a parallel system of camera rolls and fragmented group chats to get work done. Information is captured once, immediately useful to the people who need it, and available for downstream decisions and reporting without duplicate administration.
-- **Where to play: segment, geography, and use case, explicitly. Which customers, markets, and surfaces will you focus on?:** Primary segment: Existing enterprise construction customers where Meridian is already established as the project system of record but field adoption is weak.
+- **How to win: your differentiator. What can you do that your specific competitors cannot easily replicate?:** Win by making the field workflow materially easier than the camera-and-group-chat alternative while making the resulting information more useful than either alternative can provide independently. Our differentiator is capture once, act immediately, record automatically. Make it effortless to capture photos and essential context at the point of work, with minimal typing and navigation. Make issues, ownership, status, and required follow-up visible to the relevant team members without relying on fragmented message chains. Convert field activity into structured, searchable, auditable project information that supports reporting and operational decisions without duplicate entry. Leverage Meridian's existing enterprise relationships, project context, and historical data to connect current field conditions with the wider project record. Historical data is an enabling asset, not the differentiator by itself. We will validate the advantage through observed task completion, repeat usage, data quality, and downstream operational improvements and not feature parity or downloads alone.
 
-Primary users: Site superintendents and foremen who capture and communicate day-to-day site issues, supported by project managers who need timely visibility and follow-through.
+- **Capabilities required: what you must be world-class at. What will you build, buy, or partner for?:** We must become excellent at five capabilities. 1) Field workflow design: Observe actual site work and eliminate unnecessary steps, duplicate entry, and administrative burden. 2) Reliable mobile execution: Deliver a fast, intuitive experience under realistic site conditions, including intermittent connectivity where required. 3) Frictionless capture and communication: Support photo capture, relevant project context, assignment, notifications, and follow-up in one coherent workflow. 4) Structured data by default: Turn field activity into accurate, current, searchable project records that support existing reporting and compliance requirements. 5) Field-led product discovery and measurement: Test with real users at live sites, measure behavior and workflow outcomes, and iterate based on observed evidence. In addition we need to build the differentiated field experience and data workflow internally and buy or integrate commodity capabilities where they accelerate delivery without fragmenting the user experience or compromising security, auditability, and data ownership.
 
-Core workflow: Capture, communicate, assign, and track an on-site issues, starting with photo-based issue reporting and resolution.
-
-Initial environment: A representative subset of existing customer sites, selected to test different field conditions, connectivity constraints, and team workflows before broader rollout.
-
-Product surfaces: A mobile-first field experience integrated with camera capture, sharing, notifications, and the existing Meridian project record. Preserve the enterprise platform as the source of truth.
-
-Sequence: First, prove sustained adoption and measurable workflow improvement in the core. Then expand to adjacent field workflows and deepen analytics where field-generated data creates demonstrable customer value.
-- **How to win: your differentiator. What can you do that your specific competitors cannot easily replicate?:** Win by making the field workflow materially easier than the camera-and-group-chat alternative while making the resulting information more useful than either alternative can provide independently.
-
-Our differentiator is capture once, act immediately, record automatically:
-
-Capture once: Make it effortless to capture photos and essential context at the point of work, with minimal typing and navigation.
-
-Act immediately: Make issues, ownership, status, and required follow-up visible to the relevant team members without relying on fragmented message chains.
-
-Record automatically: Convert field activity into structured, searchable, auditable project information that supports reporting and operational decisions without duplicate entry.
-
-Leverage Meridian's existing enterprise relationships, project context, and historical data to connect current field conditions with the wider project record. Historical data is an enabling asset, not the differentiator by itself.
-
-We will validate the advantage through observed task completion, repeat usage, data quality, and downstream operational improvements and not feature parity or downloads alone.
-- **Capabilities required: what you must be world-class at. What will you build, buy, or partner for?:** We must become excellent at five capabilities:
-
-Field workflow design: Observe actual site work and eliminate unnecessary steps, duplicate entry, and administrative burden.
-
-Reliable mobile execution: Deliver a fast, intuitive experience under realistic site conditions, including intermittent connectivity where required.
-
-Frictionless capture and communication: Support photo capture, relevant project context, assignment, notifications, and follow-up in one coherent workflow.
-
-Structured data by default: Turn field activity into accurate, current, searchable project records that support existing reporting and compliance requirements.
-
-Field-led product discovery and measurement: Test with real users at live sites, measure behavior and workflow outcomes, and iterate based on observed evidence.
-
-Build the differentiated field experience and data workflow internally. Buy or integrate commodity capabilities where they accelerate delivery without fragmenting the user experience or compromising security, auditability, and data ownership.
-- **Management systems: the metrics and rituals that keep your choices alive quarter to quarter.:** Establish a cross-functional product team accountable for field adoption and workflow outcomes, with representation from product, engineering, design, field operations, and enterprise reporting/compliance.
-
-Discovery and baseline
-
-Visit representative sites and observe the current camera, messaging, issue-resolution, and reporting workflows.
-
-Interview field users and reporting stakeholders separately to identify friction, incentives, connectivity constraints, and unmet needs.
-
-Establish baseline adoption, task completion time, record quality, and the operational outcome most directly linked to the chosen workflow.
-
-Execution and review
-
-Run short daily delivery stand-ups during active development and pilot rollout; use these to remove blockers, not as a substitute for outcome reviews.
-
-Review product usage and workflow friction weekly with the cross-functional team.
-
-Hold a monthly decision review with field and enterprise stakeholders to evaluate outcomes, resolve trade-offs, and decide whether to continue, change, or expand the pilot.
-
-Decision rules
-
-Expand only when the pilot demonstrates meaningful repeat usage and improved workflow performance without unacceptable deterioration in data quality, security, or compliance.
-
-Treat logins, feature releases, training sessions, and feedback meetings as diagnostic or delivery measures, not success criteria.
-
-Maintain one shared scorecard that connects field behavior to enterprise data quality and operational value.
+- **Management systems: the metrics and rituals that keep your choices alive quarter to quarter.:** Establish a cross-functional product team accountable for field adoption and workflow outcomes, with representation from product, engineering, design, field operations, and enterprise reporting/compliance. Visit representative sites and observe the current camera, messaging, issue-resolution, and reporting workflows. Interview field users and reporting stakeholders separately to identify friction, incentives, connectivity constraints, and unmet needs. Establish baseline adoption, task completion time, record quality, and the operational outcome most directly linked to the chosen workflow.
+Run short daily delivery stand-ups during active development and pilot rollout; use these to remove blockers, not as a substitute for outcome reviews. Review product usage and workflow friction weekly with the cross-functional team. Hold a monthly decision review with field and enterprise stakeholders to evaluate outcomes, resolve trade-offs, and decide whether to continue, change, or expand the pilot. Expand only when the pilot demonstrates meaningful repeat usage and improved workflow performance without unacceptable deterioration in data quality, security, or compliance, treating logins, feature releases, training sessions, and feedback meetings as diagnostic or delivery measures, not success criteria. Maintain one shared scorecard that connects field behavior to enterprise data quality and operational value.
 
 ## Name your one hard no
-- **Your one hard no:** We will not invest in broad analytics expansion, reporting feature parity, or new enterprise functionality that does not directly support the core workflow or demonstrate a credible path to improving field adoption and operational outcomes.
-
-We will protect the focus on field adoption, but we will not categorically reject reporting or data-platform improvements. Work that eliminates duplicate entry, makes field updates immediately useful, or automatically generates required enterprise records is in scope because it directly enables the field-first strategy.
-
-We will not pursue a broad mobile redesign without evidence of the underlying user problem, nor scale the solution across all customers before validating it in representative pilot sites.
+- **Your one hard no:** We will not invest in broad analytics expansion, reporting feature parity, or new enterprise functionality that does not directly support the core workflow or demonstrate a credible path to improving field adoption and operational outcomes. We will protect the focus on field adoption, but we will not categorically reject reporting or data-platform improvements. Work that eliminates duplicate entry, makes field updates immediately useful, or automatically generates required enterprise records is in scope because it directly enables the field-first strategy. We will not pursue a broad mobile redesign without evidence of the underlying user problem, nor scale the solution across all customers before validating it in representative pilot sites.
 
 ## Write your three OKRs
 - **Objective:** Make Meridian the preferred tool for field teams to capture, communicate, and track on-site issues while automatically creating reliable enterprise project records.
